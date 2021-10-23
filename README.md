@@ -1,14 +1,14 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* #### 🎓 I'm a CS Sophomore at MANIT Bhopal
-* #### 🏆 I love problem solving and competitive programming
-* #### 👨🏽‍💻 Currently I'm working on my Backend Development Skills
+*  🎓 I'm a CS Sophomore at MANIT Bhopal
+*  🏆 I love problem solving and competitive programming
+*  👨🏽‍💻 Currently I'm working on my Backend Development Skills
 
 
 ### 💬To know more about me
-* #### [LinkedIn](https://www.linkedin.com/in/aditya-prasad-2508/)
-* #### [Codeforces](https://codeforces.com/profile/apcc_25)
-* #### [Codechef](https://www.codechef.com/users/apcc_25)
+*  [LinkedIn](https://www.linkedin.com/in/aditya-prasad-2508/)
+*  [Codeforces](https://codeforces.com/profile/apcc_25)
+*  [Codechef](https://www.codechef.com/users/apcc_25)
 
 <br />
 
