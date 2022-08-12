@@ -1,6 +1,6 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-*  🎓 I'm a CS Sophomore at MANIT Bhopal
+*  🎓 Prefinal CSE undergrad at MANIT Bhopal
 *  🏆 I love problem solving and competitive programming
 *  👨🏽‍💻 Currently I'm working on my Backend Development Skills
 
